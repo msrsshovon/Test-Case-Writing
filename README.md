@@ -9,6 +9,7 @@
 - [Bug_Report](#Bug_Report)
 - [Test_Metrics](#Test_Metrics)
 - [Mind_Map](#Mind_Map)
+
 # Introduction
 
 This document gives an overview of the Manual Testing Project that was developed using a Test Case, Test Case Report, Bug Report, Test Metrics, and MindMap.
@@ -20,9 +21,11 @@ This document gives an overview of the Manual Testing Project that was developed
 - Internet Connection
 - A Browser (Google Chrome)
 - A Website (Apex)
+
 # Install
 
 - [Xmind software](https://xmind.app/download/)
+
 # Test_Case
 
 The test case is defined as a group of conditions under which a tester determines whether a software application is working as per the customer's requirements or not. Test case has a set of test data, preconditions, expected results and postconditions, developed for a particular test scenario in order to verify compliance against a specific requirement.
